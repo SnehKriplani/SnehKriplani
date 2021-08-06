@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sneh Kriplani</h1>
-<h3 align="center">A passionate frontend developer from Gujarat ,India.</h3>
+<h3 align="center">A passionate frontend developer from Gujarat , India.</h3>
 
 - 🔭 I’m currently working on **Portfolio**
 
