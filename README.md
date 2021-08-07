@@ -1,3 +1,4 @@
+![Git](https://user-images.githubusercontent.com/84183445/128600543-dd78d3d7-7332-4373-bc7b-5f55e3faa281.jpg)
 
 <h1 align="center">Hi 👋, I'm Sneh Kriplani</h1>
 <h3 align="center">A Passionate Developer from Gujarat , India.</h3>
