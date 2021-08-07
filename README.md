@@ -1,3 +1,4 @@
+![SnehKriplani](./Custom Size – 1.jpg.)
 <h1 align="center">Hi 👋, I'm Sneh Kriplani</h1>
 <h3 align="center">A Passionate Developer from Gujarat , India.</h3>
 
